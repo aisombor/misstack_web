@@ -1,0 +1,23 @@
+h2{
+    font-size: larger;
+    font-family: arial;
+    color: rgb(62, 201, 20);
+    text-align: center;
+    text-decoration:underline ;
+    letter-spacing: 1px;
+    line-height: 10px;
+}
+header, footer{
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+    text-align: center;
+    letter-spacing: 1px;
+    line-height: 30px;
+}
+img{
+    text-align: center;
+}
+.background{
+    background-color: aqua;
+    border-radius: 60px ;
