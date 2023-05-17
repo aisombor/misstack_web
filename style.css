@@ -21,3 +21,17 @@ img{
 .background{
     background-color: aqua;
     border-radius: 60px ;
+}
+#underline{
+    border-radius: 60px;
+}
+.page1{
+    font-size: larger;
+    font-family: arial;
+    color: rgb(201, 20, 20);
+    text-align: center;
+    text-decoration:underline ;
+    letter-spacing: 1px;
+    line-height: 10px;
+    background-color: rgb(208, 208, 232);
+}
